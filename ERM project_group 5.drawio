@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T19:30:26.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="etCGYTP2LLhnPHdMTwc3" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T19:36:45.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="VkNJRCczCkeNEZmor0qx" version="24.4.0" type="github">
   <diagram name="Seite-1" id="DuqfsaLASHTj-wQLDR7s">
-    <mxGraphModel dx="2416" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="plvvck1nAo7BZPTG8aY5-12" value="name" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="plvvck1nAo7BZPTG8aY5-12" value="name" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-265" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plvvck1nAo7BZPTG8aY5-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="plvvck1nAo7BZPTG8aY5-12" target="plvvck1nAo7BZPTG8aY5-8">
@@ -333,19 +333,19 @@
             <mxPoint x="-210" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="plvvck1nAo7BZPTG8aY5-15" value="room_no" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="plvvck1nAo7BZPTG8aY5-15" value="room_no" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-260" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plvvck1nAo7BZPTG8aY5-16" value="booking_no" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="plvvck1nAo7BZPTG8aY5-16" value="booking_no" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-120" y="340" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plvvck1nAo7BZPTG8aY5-17" value="date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="plvvck1nAo7BZPTG8aY5-17" value="date" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plvvck1nAo7BZPTG8aY5-19" value="start_time" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="plvvck1nAo7BZPTG8aY5-19" value="start_time" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="-120" y="460" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="plvvck1nAo7BZPTG8aY5-20" value="end_time" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="plvvck1nAo7BZPTG8aY5-20" value="end_time" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="40" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="plvvck1nAo7BZPTG8aY5-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="plvvck1nAo7BZPTG8aY5-16" target="plvvck1nAo7BZPTG8aY5-1">
