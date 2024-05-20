@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T13:16:10.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="n07JZQsiW_JnXaWoB_Un" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T13:17:28.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="NwOlNKlxT6UdSPGf_hKg" version="24.4.4" type="github">
   <diagram name="Seite-1" id="DuqfsaLASHTj-wQLDR7s">
-    <mxGraphModel dx="1877" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,9 +287,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="760" as="sourcePoint" />
             <mxPoint x="960" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="640" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="plvvck1nAo7BZPTG8aY5-1" value="books_1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
